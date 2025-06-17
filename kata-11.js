@@ -9,7 +9,7 @@ const areaOrPerimeter = function(l , w) {
   
   // Return your answer
   if (l===w){
-    return l*w;git push -u origin master
+    return l*w;
   }
   return (l+w)*2
   
