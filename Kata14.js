@@ -12,7 +12,8 @@ function removeChar(str){
   let final=result.join("");
   
   
-return  final}
+return  final
+}
 
 
 console.log(removeChar("ziza"));
